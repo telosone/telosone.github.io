@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to TelosOne!!
 
 You can use the [editor on GitHub](https://github.com/telosone/telosone.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
